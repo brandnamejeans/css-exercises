@@ -1,0 +1,15 @@
+.red {
+  background-color: #f08080;
+  font-family: Verdana, "DejaVu Sans", sans-serif
+}
+#one {
+  color: #0000ff;
+  font-size: 36px;
+}
+.big {
+  font-size: 24px;
+}
+#another {
+  background-color: rgb(144, 238, 144);
+  font-weight: bold;
+}
